@@ -1,37 +1,48 @@
-# examples
+# MinBIM Examples
 
-#### 介绍
-MinBIM Web 开发示例库，涵盖 BIM、GIS、CAD 及 GIS+BIM、CAD+BIM 等融合应用场景，提供模型加载、数据交互、三维可视化与业务集成示例，帮助开发者快速了解 MinBIM 的功能与集成方式。
+MinBIM Web 开发示例库，面向需要在 Web 应用中集成 BIM、GIS、CAD 及相关三维能力的开发者。
 
-#### 软件架构
-软件架构说明
+本仓库计划逐步整理可运行的开发示例，帮助开发者了解 MinBIM 的功能、API 使用方式，以及三维能力与现有业务系统的集成思路。
 
+## 项目内容
 
-#### 安装教程
+示例将围绕以下方向逐步建设：
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- **BIM 模型应用**：模型加载、构件选择、结构树、属性查询、显隐控制、多模型管理等。
+- **三维交互与可视化**：视图控制、测量、剖切及其他常见三维交互功能。
+- **GIS 应用**：地图、地形、空间数据与三维场景相关的开发示例。
+- **CAD 应用**：CAD 数据在 Web 场景中的展示与应用。
+- **融合应用**：GIS+BIM、CAD+BIM 等跨领域集成场景。
 
-#### 使用说明
+以上为规划方向，具体内容将根据实际开发进度逐步发布。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## 适合谁？
 
-#### 参与贡献
+如果你正在开发工程管理系统、数字孪生平台、智慧工地或其他 Web 三维应用，希望将模型展示、构件数据和三维交互能力融入现有业务系统，可以关注本仓库。
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+## 开始使用
 
+本仓库目前处于建设阶段，示例代码、运行说明及相关资源将逐步补充。
 
-#### 特技
+使用具体示例前，请先阅读对应目录中的 README，确认所需环境、依赖、SDK 获取方式及运行步骤。
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## 了解 MinBIM
+
+- 官网：https://www.minbim.com/
+- 开发者中心：https://www.minbim.com/docs.html
+- 功能介绍：https://www.minbim.com/features.html
+- 在线示例：https://www.minbim.com/examples.html
+
+建议先通过在线示例了解实际效果，再结合开发者文档评估如何将相关能力集成到自己的 Web 项目中。
+
+## 使用说明
+
+本仓库用于展示 MinBIM 相关的开发方法与应用示例。
+
+MinBIM 引擎、SDK、转换工具及其他相关组件的获取和使用，应遵循各自适用的授权条款。示例涉及的模型、第三方库及其他资源，应以相应资源的许可说明为准。
+
+在相关授权说明明确之前，请勿将本仓库中的示例视为 MinBIM 引擎或其他商业组件的开源声明。
+
+## 反馈与交流
+
+欢迎通过 Gitee Issue 反馈示例运行问题、提出改进建议，或交流实际开发中遇到的集成问题。
