@@ -1,0 +1,135 @@
+@font-face {
+  font-family: "minbim-iconfont"; /* Project id 4860804 */
+  src: url('iconfont.woff2?t=1749436814424') format('woff2'),
+       url('iconfont.woff?t=1749436814424') format('woff'),
+       url('iconfont.ttf?t=1749436814424') format('truetype');
+}
+
+.minbim-iconfont {
+  font-family: "minbim-iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.minbim-icon-search:before {
+  content: "\e60a";
+}
+
+.minbim-icon-locked:before {
+  content: "\e6e6";
+}
+
+.minbim-icon-visible:before {
+  content: "\e619";
+}
+
+.minbim-icon-frozen:before {
+  content: "\e69f";
+}
+
+.minbim-icon-empty:before {
+  content: "\e623";
+}
+
+.minbim-icon-warning:before {
+  content: "\e627";
+}
+
+.minbim-icon-ok:before {
+  content: "\e8ad";
+}
+
+.minbim-icon-no:before {
+  content: "\e8b8";
+}
+
+.minbim-icon-right:before {
+  content: "\e602";
+}
+
+.minbim-icon-down:before {
+  content: "\e839";
+}
+
+.minbim-icon-property:before {
+  content: "\e61f";
+}
+
+.minbim-icon-tree:before {
+  content: "\e695";
+}
+
+.minbim-icon-drop-down:before {
+  content: "\e6b8";
+}
+
+.minbim-icon-main-view:before {
+  content: "\e661";
+}
+
+.minbim-icon-settings:before {
+  content: "\e6a3";
+}
+
+.minbim-icon-ai:before {
+  content: "\e7ac";
+}
+
+.minbim-icon-roam:before {
+  content: "\e613";
+}
+
+.minbim-icon-info:before {
+  content: "\e649";
+}
+
+.minbim-icon-fullscreen-exit:before {
+  content: "\ea69";
+}
+
+.minbim-icon-explode-floor:before {
+  content: "\e6b2";
+}
+
+.minbim-icon-measure-angle:before {
+  content: "\e62f";
+}
+
+.minbim-icon-fullscreen:before {
+  content: "\e683";
+}
+
+.minbim-icon-measure-area:before {
+  content: "\e65e";
+}
+
+.minbim-icon-clipping:before {
+  content: "\e600";
+}
+
+.minbim-icon-measure:before {
+  content: "\e64b";
+}
+
+.minbim-icon-explode-sphere:before {
+  content: "\e6e3";
+}
+
+.minbim-icon-measure-distance:before {
+  content: "\e656";
+}
+
+.minbim-icon-clipping-face:before {
+  content: "\e60e";
+}
+
+.minbim-icon-clipping-box:before {
+  content: "\e601";
+}
+
+.minbim-icon-explode:before {
+  content: "\e859";
+}
+

@@ -1,0 +1,1 @@
+import{a}from"./paths-q_0qrfnr.js";let e=null,s=!1;async function o(i){e=new MinBIMCAD.Viewer(i.id),e.init({config:{assetsDir:a("assets")}}),window.demo={async loadDrawing(){s||(s=!0,await e.load(a("models/sample-cad/manifest.json")))}}}function t(){e&&e.dispose(),e=null,s=!1}export{t as destroy,o as mount};

@@ -1,0 +1,22 @@
+[2026/11/3 10:29:33] Start 
+[2026/11/3 10:29:33] Load file start 
+[2026/11/3 10:29:36] Load file end 
+[2026/11/3 10:29:36] Extract start 
+[2026/11/3 10:29:39] Extract end 
+[2026/11/3 10:29:39] Merge start 
+[2026/11/3 10:29:39] Merge end 
+[2026/11/3 10:29:39] Export start 
+[2026/11/3 10:29:39] Export texture file start 
+[2026/11/3 10:29:39] Export texture file end 
+[2026/11/3 10:29:39] Export material file start 
+[2026/11/3 10:29:39] Export material file end 
+[2026/11/3 10:29:39] Export geometries file start 
+[2026/11/3 10:29:39] Export geometries file end 
+[2026/11/3 10:29:39] Export node file start 
+[2026/11/3 10:29:39] Export node file end 
+[2026/11/3 10:29:39] Export property file start 
+[2026/11/3 10:29:39] Export property file end 
+[2026/11/3 10:29:39] Export manifest file start 
+[2026/11/3 10:29:39] Export manifest file end 
+[2026/11/3 10:29:39] Export end 
+[2026/11/3 10:29:43] Finish 

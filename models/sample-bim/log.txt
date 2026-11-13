@@ -1,0 +1,26 @@
+[2026/11/12 11:39:39] Start
+[2026/11/12 11:39:39] Load file start
+[2026/11/12 11:39:39] Load file end
+[2026/11/12 11:39:39] Extract start
+[2026/11/12 11:39:39] Parse objects start
+[2026/11/12 11:39:41] Parse objects end
+[2026/11/12 11:39:41] Parse nodes start
+[2026/11/12 11:39:41] Parse nodes end
+[2026/11/12 11:39:41] Parse properties start
+[2026/11/12 11:39:41] Parse properties end
+[2026/11/12 11:39:41] Extract end
+[2026/11/12 11:39:41] Merge start
+[2026/11/12 11:39:41] Merge end
+[2026/11/12 11:39:41] Export start
+[2026/11/12 11:39:41] Export material start
+[2026/11/12 11:39:41] Export material end
+[2026/11/12 11:39:41] Export geometry start
+[2026/11/12 11:39:41] Export geometry end
+[2026/11/12 11:39:41] Export node start
+[2026/11/12 11:39:41] Export node end
+[2026/11/12 11:39:41] Export property start
+[2026/11/12 11:39:41] Export property end
+[2026/11/12 11:39:41] Export manifest start
+[2026/11/12 11:39:41] Export manifest end
+[2026/11/12 11:39:41] Export end
+[2026/11/12 11:39:41] Finish

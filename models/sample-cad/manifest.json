@@ -1,0 +1,37 @@
+{
+    "type": ".dwg",
+    "name": "huaxia.dwg",
+    "version": "AC1018",
+    "size": 176536,
+    "unit": "inch",
+    "min_bound": [
+        -59216.91233927365,
+        -28321.927279988242,
+        -469.94018535614873
+    ],
+    "max_bound": [
+        59217.916118885594,
+        28323.02693766803,
+        470.4679679999996
+    ],
+    "rtc_center": [
+        51103.0,
+        28327.0,
+        282.0
+    ],
+    "export_time": "2026-09-01 15:45:54",
+    "files": {
+        "layers": "layers.json",
+        "blocks": [
+            "blocks_0.bin"
+        ],
+        "instances": "instances.bin",
+        "lines": [
+            "lines_0.bin",
+            "lines_1.bin"
+        ],
+        "points": "points.bin",
+        "triangles": "triangles.bin",
+        "texts": "texts.json"
+    }
+}

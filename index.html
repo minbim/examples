@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="MinBIM 轻量化 BIM 引擎官方示例库：BIM 模型加载、多专业协同、施工进度模拟、问题整改管理、设备台账、版本对比、BIM+GIS 协同、CAD 图纸查看与图模联动。" />
+  <meta name="keywords" content="MinBIM,BIM轻量化,BIM引擎,WebGL BIM,BIM可视化,多专业协同,施工进度模拟,BIM GIS,CAD图纸,图模联动" />
+  <title>MinBIM 示例库</title>
+  <link rel="stylesheet" href="./assets/css/main.css" />
+  <script type="module" crossorigin src="./assets/index-D0ReuTJZ.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-DOFG3IHJ.css">
+</head>
+<body>
+  <div id="sandbox">
+    <!-- 上部：左业务面板 + 右 viewer -->
+    <div id="top">
+      <aside id="panel">
+        <header id="panel-header">
+          <h1 id="demo-title">加载中…</h1>
+          <p id="demo-desc"></p>
+        </header>
+        <nav id="panel-actions"></nav>
+      </aside>
+      <main id="viewer-wrap">
+        <div id="viewer"></div>
+        <a id="source-link" href="#" target="_blank" rel="noopener">查看源码 ↗</a>
+      </main>
+    </div>
+    <!-- 下部：示例画廊 -->
+    <footer id="gallery">
+      <div id="gallery-track"></div>
+    </footer>
+  </div>
+
+  <script src="./assets/minbim.min.js"></script>
+  <script src="./assets/minbim-gis.min.js"></script>
+  <script src="./assets/minbim-2d.min.js"></script>
+</body>
+</html>
