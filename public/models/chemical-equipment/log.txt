@@ -1,0 +1,29 @@
+[2026/09/01 02:27:53]Start
+[2026/09/01 02:27:53]Load file start
+[2026/09/01 02:27:53]Successfully parsed RVM file: spooler.rvm
+[2026/09/01 02:27:53]Loading matching attribute file: spooler.att
+[2026/09/01 02:27:53]Successfully parsed ATT attribute file.
+[2026/09/01 02:27:53]Load file end
+[2026/09/01 02:27:53]Extract start
+[2026/09/01 02:27:53]Extract node start
+[2026/09/01 02:27:53]Extract node end
+[2026/09/01 02:27:53]Extract property start
+[2026/09/01 02:27:53]Extract property end
+[2026/09/01 02:27:53]Extract entity start
+[2026/09/01 02:27:53]Extract entity end
+[2026/09/01 02:27:53]Extract end
+[2026/09/01 02:27:53]Merge start
+[2026/09/01 02:27:53]Merge end
+[2026/09/01 02:27:53]Export start
+[2026/09/01 02:27:53]Export material file start
+[2026/09/01 02:27:53]Export material file end
+[2026/09/01 02:27:53]Export node file start
+[2026/09/01 02:27:53]Export node file end
+[2026/09/01 02:27:53]Export geometries file start
+[2026/09/01 02:27:53]Export geometries file end
+[2026/09/01 02:27:53]Export property file start
+[2026/09/01 02:27:53]Export property file end
+[2026/09/01 02:27:53]Export manifest file start
+[2026/09/01 02:27:53]Export manifest file end
+[2026/09/01 02:27:53]Export end
+[2026/09/01 02:27:53]Finish

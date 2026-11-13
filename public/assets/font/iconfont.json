@@ -1,0 +1,219 @@
+{
+  "id": "4860804",
+  "name": "minbim",
+  "font_family": "minbim-iconfont",
+  "css_prefix_text": "minbim-icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5270410",
+      "name": "查询",
+      "font_class": "search",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "679775",
+      "name": "锁定",
+      "font_class": "locked",
+      "unicode": "e6e6",
+      "unicode_decimal": 59110
+    },
+    {
+      "icon_id": "9269179",
+      "name": "灯光-开",
+      "font_class": "visible",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "9945092",
+      "name": "冻结",
+      "font_class": "frozen",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "35299789",
+      "name": "无内容",
+      "font_class": "empty",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "5727490",
+      "name": "警告",
+      "font_class": "warning",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "11372648",
+      "name": "成功",
+      "font_class": "ok",
+      "unicode": "e8ad",
+      "unicode_decimal": 59565
+    },
+    {
+      "icon_id": "11372698",
+      "name": "失败",
+      "font_class": "no",
+      "unicode": "e8b8",
+      "unicode_decimal": 59576
+    },
+    {
+      "icon_id": "3046319",
+      "name": "right",
+      "font_class": "right",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "34452987",
+      "name": "down",
+      "font_class": "down",
+      "unicode": "e839",
+      "unicode_decimal": 59449
+    },
+    {
+      "icon_id": "502528",
+      "name": "property",
+      "font_class": "property",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "38072935",
+      "name": "nodes",
+      "font_class": "tree",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "4464473",
+      "name": "下拉",
+      "font_class": "drop-down",
+      "unicode": "e6b8",
+      "unicode_decimal": 59064
+    },
+    {
+      "icon_id": "41762272",
+      "name": "主视角",
+      "font_class": "main-view",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "2512660",
+      "name": "BAI-设置",
+      "font_class": "settings",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "43609433",
+      "name": "人工智能_AI",
+      "font_class": "ai",
+      "unicode": "e7ac",
+      "unicode_decimal": 59308
+    },
+    {
+      "icon_id": "9560500",
+      "name": "第一人称_画板 1",
+      "font_class": "roam",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "657506",
+      "name": "信息",
+      "font_class": "info",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "7594030",
+      "name": "24gl-fullScreenExit3",
+      "font_class": "fullscreen-exit",
+      "unicode": "ea69",
+      "unicode_decimal": 60009
+    },
+    {
+      "icon_id": "7629047",
+      "name": "分层",
+      "font_class": "explode-floor",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "10758559",
+      "name": "测角度",
+      "font_class": "measure-angle",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "11810474",
+      "name": "全屏",
+      "font_class": "fullscreen",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "13638737",
+      "name": "面积",
+      "font_class": "measure-area",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "15210932",
+      "name": "剖切",
+      "font_class": "clipping",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "18483856",
+      "name": "测量工具",
+      "font_class": "measure",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "20156295",
+      "name": "添加球体",
+      "font_class": "explode-sphere",
+      "unicode": "e6e3",
+      "unicode_decimal": 59107
+    },
+    {
+      "icon_id": "23502831",
+      "name": "测距",
+      "font_class": "measure-distance",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "24665318",
+      "name": "剖切面-线",
+      "font_class": "clipping-face",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "24887756",
+      "name": "剖切",
+      "font_class": "clipping-box",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "40211095",
+      "name": "爆炸",
+      "font_class": "explode",
+      "unicode": "e859",
+      "unicode_decimal": 59481
+    }
+  ]
+}

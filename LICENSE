@@ -1,0 +1,48 @@
+MinBIM 示例库许可说明
+=====================
+
+本仓库内容分为两部分，适用不同许可：
+
+一、示例代码（MIT License）
+--------------------------
+除下文第二、三部分外的所有源代码，包括 demos/、shared/、index.html、
+vite.config.js 以及各示例的 README 文档，采用 MIT License 发布：
+
+MIT License
+
+Copyright (c) 2026 MinBIM Examples contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+二、引擎产物（商业软件，非开源）
+--------------------------------
+public/assets/ 目录下的 minbim*.min.js 及配套静态资源为 MinBIM 引擎的
+商业发布产物，著作权归 MinBIM 引擎著作权人所有，不适用上述 MIT License。
+
+本仓库收录这些文件仅用于示例的运行与演示。未经授权，您不得：
+  - 将其用于任何商业项目或生产环境；
+  - 对其进行反向工程、反编译或试图提取源代码；
+  - 单独再分发这些文件。
+
+商业使用与授权请联系：https://www.minbim.com
+
+三、示例模型与业务数据
+----------------------
+public/models/ 目录下的模型文件与业务数据（如 clash.json、systems.json）
+仅用于示例演示，不代表任何真实项目，请勿用于其他用途。

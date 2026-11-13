@@ -1,0 +1,704 @@
+{
+    "0": {
+        "handle": "10",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "DIM-风机盘管": {
+        "handle": "68C",
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "DIM_MODI": {
+        "handle": "68D",
+        "color": [
+            255,
+            0,
+            255
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "TH_TEXT": {
+        "handle": "68E",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "Defpoints": {
+        "handle": "68F",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 0.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "ECA_TK": {
+        "handle": "690",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "tk": {
+        "handle": "692",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "fg": {
+        "handle": "693",
+        "color": [
+            255,
+            191,
+            0
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "Hvac-Hide": {
+        "handle": "694",
+        "color": [
+            128,
+            128,
+            128
+        ],
+        "linetype": "DASH",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "DUCT-送风管": {
+        "handle": "695",
+        "color": [
+            0,
+            255,
+            255
+        ],
+        "linetype": "Continuous",
+        "lineweight": 20,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "DUCT-排风管": {
+        "handle": "696",
+        "color": [
+            255,
+            191,
+            127
+        ],
+        "linetype": "Continuous",
+        "lineweight": 20,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "DUCT-排风中心线": {
+        "handle": "697",
+        "color": [
+            0,
+            0,
+            255
+        ],
+        "linetype": "CENTER2",
+        "lineweight": 20,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "DUCT-排风法兰": {
+        "handle": "698",
+        "color": [
+            255,
+            255,
+            0
+        ],
+        "linetype": "Continuous",
+        "lineweight": 20,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "DUCT-排风管端线": {
+        "handle": "699",
+        "color": [
+            255,
+            255,
+            0
+        ],
+        "linetype": "Continuous",
+        "lineweight": 20,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "DUCT-排风阀门": {
+        "handle": "69A",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "linetype": "Continuous",
+        "lineweight": 20,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "DUCT-送风阀门": {
+        "handle": "69B",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "linetype": "Continuous",
+        "lineweight": 20,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "DUCT-送风标注": {
+        "handle": "69C",
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "linetype": "Continuous",
+        "lineweight": 20,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "KTQ": {
+        "handle": "69D",
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "PUB_DIM": {
+        "handle": "69E",
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "linetype": "Continuous",
+        "lineweight": 13,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "DUCT-回风风口": {
+        "handle": "69F",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "DUCT-排风标注": {
+        "handle": "6A1",
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "EQPM-b1(-7.5)$0$SUPA-PORT": {
+        "handle": "6A2",
+        "color": [
+            255,
+            255,
+            0
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "EQPM-b1(-7.5)$0$ACS_HFG_FK": {
+        "handle": "6A3",
+        "color": [
+            191,
+            0,
+            255
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "PUB_TEXT": {
+        "handle": "6A4",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "linetype": "Continuous",
+        "lineweight": 13,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "风机盘管型号": {
+        "handle": "6A5",
+        "color": [
+            255,
+            0,
+            0
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "TEXT1": {
+        "handle": "6A6",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "linetype": "Continuous",
+        "lineweight": 13,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$DOTE": {
+        "handle": "6A7",
+        "color": [
+            255,
+            0,
+            0
+        ],
+        "linetype": "11层以上2$0$CENTER",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$WALL": {
+        "handle": "6A8",
+        "color": [
+            255,
+            255,
+            0
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$WINDOW_TEXT": {
+        "handle": "6A9",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 1.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$WINDOW": {
+        "handle": "6AA",
+        "color": [
+            0,
+            255,
+            255
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$COLUMN": {
+        "handle": "6AB",
+        "color": [
+            255,
+            255,
+            0
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$STAIR": {
+        "handle": "6AC",
+        "color": [
+            0,
+            255,
+            255
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$AXIS": {
+        "handle": "6AD",
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$AXIS_TEXT": {
+        "handle": "6AE",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$DIM_SYMB": {
+        "handle": "6AF",
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$可见线": {
+        "handle": "6B0",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$tk": {
+        "handle": "6B1",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$幕墙": {
+        "handle": "6B2",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$A-HATH": {
+        "handle": "6B3",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$电梯": {
+        "handle": "6B4",
+        "color": [
+            0,
+            255,
+            255
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$洁具": {
+        "handle": "6B5",
+        "color": [
+            128,
+            128,
+            128
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$LVTRY": {
+        "handle": "6B6",
+        "color": [
+            145,
+            82,
+            165
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$0-XREF": {
+        "handle": "6B7",
+        "color": [
+            255,
+            255,
+            0
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$A-A63-FACA-F05-10-150$0$A-SECT-THIN": {
+        "handle": "6B8",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$排水": {
+        "handle": "6B9",
+        "color": [
+            0,
+            255,
+            255
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$幕墙板": {
+        "handle": "6BA",
+        "color": [
+            0,
+            255,
+            255
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$幕墙填充": {
+        "handle": "6BB",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$DUCT-排烟管": {
+        "handle": "6BC",
+        "color": [
+            255,
+            255,
+            0
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$DUCT-排风管": {
+        "handle": "6BD",
+        "color": [
+            255,
+            191,
+            127
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$PIPE-中水": {
+        "handle": "6BE",
+        "color": [
+            0,
+            165,
+            124
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$立管": {
+        "handle": "6BF",
+        "color": [
+            0,
+            255,
+            255
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$给水": {
+        "handle": "6C0",
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "linetype": "11层以上2$0$S",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$-00-结构留洞": {
+        "handle": "6C1",
+        "color": [
+            255,
+            0,
+            0
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    },
+    "11层以上2$0$P-A6-3$0$SEWR-VALV": {
+        "handle": "6C2",
+        "color": [
+            223,
+            127,
+            255
+        ],
+        "linetype": "Continuous",
+        "lineweight": -3,
+        "visible": 1.0,
+        "frozen": 0.0,
+        "locked": 0.0
+    }
+}
