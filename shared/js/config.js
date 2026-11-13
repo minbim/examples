@@ -4,7 +4,7 @@ export const deploy = {
   platform: 'github',
   // 各平台仓库的源码浏览前缀（需以 / 结尾，后面拼 demo.sourcePath）
   repos: {
-    github: 'https://github.com/minbim/minbim-examples/blob/main/',
+    github: 'https://github.com/minbim/examples/blob/master/',
     gitee: 'https://gitee.com/minbim/examples/blob/master/'
   }
 };
